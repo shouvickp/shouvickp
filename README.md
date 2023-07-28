@@ -1,4 +1,4 @@
-## Shouvick Paul (Master Of Computer Application)
+## Shouvick Paul (Master of Computer Application)
 ## Hi there 👋
 I'm a Full Stack Developer having knowledge in Java Spring Boot Web App Development, MERN Stack Development, Android App Development, Python for Data Science, Machine Learning, deep learning, and data visualization using POWER BI.
 
